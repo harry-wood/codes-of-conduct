@@ -72,7 +72,7 @@ You can find a current list of all of the OSM mailing lists here: https://lists.
 * Use links: Please provide URLs to articles and documents wherever possible. Avoid cutting and pasting the full content, especially considering the fact that not everyone may be interested.
 * Don’t include large attached files: Instead of including large attachments, please upload your file to a server and post a link to the file from your email message.
 
-####Do Not Hijack Threads
+#### Do Not Hijack Threads
 * Post new questions or new topics as new threads (new email message). Please do not reply to a random thread with a new question or start an unrelated topic of conversation in an existing thread. This creates confusion and makes it much less likely that you will get a response.
 
 #### Subscribers Only
